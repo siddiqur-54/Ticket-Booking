@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ticket Booking Application</string>
+
+    <string-array name="From">
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+
+    <string-array name="To">
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+
+    </string-array>
+    <string-array name="Date">
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+    <string-array name="Time">
+        <item>5:00am</item>
+        <item>6:00am</item>
+        <item>7:00am</item>
+        <item>8:00am</item>
+        <item>8:30am</item>
+
+    </string-array>
+    <string-array name="Busname">
+        <item>National Travels</item>
+        <item>Desh Travels</item>
+        <item>Hanif</item>
+        <item>Akota</item>
+        <item>Grameen travels</item>
+        <item>Shymoli</item>
+
+    </string-array>
+    <string-array name="Person">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="bustype">
+
+        <item>Non-Ac</item>
+        <item>Ac</item>
+
+    </string-array>
+</resources>

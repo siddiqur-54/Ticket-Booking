@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\16f1dee7cd1c8c87f470c8ce76617078\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0d24b63b8fdc3478f476e8ef021480d4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\097fbb40fab0978deee3d64ffd9df227\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\08baca48aa707997096dbe538db07803\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a1d1c7937d667280c9ee16485fc7e817\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e1b889c4e0b697b917a1b5c0f15aa708\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3e0a7780a0d28d4f448682773f9159c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\560df7f5972c3a9487b719c5ce114ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0362c984d467f5fbee31707172857dba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\8c6889b8f8bf670ccf45f094d00b3013\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\b843716539bfcc8b04f5e7ad210d2b24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19b86c92e646feb258ff908c4a1e8622\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19377c8a8dd4b87615cc128c1b2fea55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\cc38e802d21036a5ae7404a3f1deae54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3cd9f1172a619618e53d0c5361adf12b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\d4767d89562743382972763c74524c04\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\613810f07d0dd88da7c2c3b63fe9e545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\081b215ef8294d153b42541014fc0d37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9050b634323bda3296c55961d15e9f40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\33eb793edcdb6189eeb84a989086dd40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\acab73d974a79d9cd4ef123bbc379945\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9ada4206482a74620455998f869bb789\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\404f6de1e9612241b4523d88a640eba6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e2dfcd01e3b0d5d3dd3593750cec6196\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\051915bd1068417a34bd50fdea5e9135\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e9e59526839d717c740e8e468559ff04\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0d24b63b8fdc3478f476e8ef021480d4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0d24b63b8fdc3478f476e8ef021480d4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\d4767d89562743382972763c74524c04\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\d4767d89562743382972763c74524c04\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ticketbookingapplication.Passengers
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:12:9-57
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:12:19-45
+activity#com.example.ticketbookingapplication.UserLoginPage
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.ticketbookingapplication.Information
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:14:9-49
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:14:19-46
+activity#com.example.ticketbookingapplication.Admin
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:15:19-40
+activity#com.example.ticketbookingapplication.MainActivity
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.ticketbookingapplication.InfoActivity
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.example.ticketbookingapplication.RouteInfoActivity
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:24:19-52
+activity#com.example.ticketbookingapplication.TicketBookingActivity
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:25:19-56
+activity#com.example.ticketbookingapplication.BookingPage
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:26:19-46
+activity#com.example.ticketbookingapplication.Registration
+ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\16f1dee7cd1c8c87f470c8ce76617078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\16f1dee7cd1c8c87f470c8ce76617078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0d24b63b8fdc3478f476e8ef021480d4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0d24b63b8fdc3478f476e8ef021480d4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\097fbb40fab0978deee3d64ffd9df227\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\097fbb40fab0978deee3d64ffd9df227\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\08baca48aa707997096dbe538db07803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\08baca48aa707997096dbe538db07803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a1d1c7937d667280c9ee16485fc7e817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a1d1c7937d667280c9ee16485fc7e817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e1b889c4e0b697b917a1b5c0f15aa708\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e1b889c4e0b697b917a1b5c0f15aa708\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3e0a7780a0d28d4f448682773f9159c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3e0a7780a0d28d4f448682773f9159c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\560df7f5972c3a9487b719c5ce114ec7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\560df7f5972c3a9487b719c5ce114ec7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0362c984d467f5fbee31707172857dba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\0362c984d467f5fbee31707172857dba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\8c6889b8f8bf670ccf45f094d00b3013\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\8c6889b8f8bf670ccf45f094d00b3013\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\b843716539bfcc8b04f5e7ad210d2b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\b843716539bfcc8b04f5e7ad210d2b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19b86c92e646feb258ff908c4a1e8622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19b86c92e646feb258ff908c4a1e8622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19377c8a8dd4b87615cc128c1b2fea55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\19377c8a8dd4b87615cc128c1b2fea55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\cc38e802d21036a5ae7404a3f1deae54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\cc38e802d21036a5ae7404a3f1deae54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3cd9f1172a619618e53d0c5361adf12b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\3cd9f1172a619618e53d0c5361adf12b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\a12c3f8efce3a72eec28dcacff0b4588\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\d4767d89562743382972763c74524c04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\d4767d89562743382972763c74524c04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\613810f07d0dd88da7c2c3b63fe9e545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\613810f07d0dd88da7c2c3b63fe9e545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\081b215ef8294d153b42541014fc0d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\081b215ef8294d153b42541014fc0d37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9050b634323bda3296c55961d15e9f40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9050b634323bda3296c55961d15e9f40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\33eb793edcdb6189eeb84a989086dd40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\33eb793edcdb6189eeb84a989086dd40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\acab73d974a79d9cd4ef123bbc379945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\acab73d974a79d9cd4ef123bbc379945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9ada4206482a74620455998f869bb789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\9ada4206482a74620455998f869bb789\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\404f6de1e9612241b4523d88a640eba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\404f6de1e9612241b4523d88a640eba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e2dfcd01e3b0d5d3dd3593750cec6196\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e2dfcd01e3b0d5d3dd3593750cec6196\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\051915bd1068417a34bd50fdea5e9135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\051915bd1068417a34bd50fdea5e9135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e9e59526839d717c740e8e468559ff04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP USER\.gradle\caches\transforms-2\files-2.1\e9e59526839d717c740e8e468559ff04\AndroidManifest.xml:20:5-44
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		ADDED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TicketBookingApplication\app\src\main\AndroidManifest.xml

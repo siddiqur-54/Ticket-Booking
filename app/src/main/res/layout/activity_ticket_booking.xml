@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B39DDB"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".TicketBookingActivity">
+    <EditText
+        android:id="@+id/editTextNameId"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:layout_margin="7dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/editTextPhoneId"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:layout_margin="7dp"
+        android:ems="10"
+        android:hint="Phone"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/editTextDateId"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:layout_margin="7dp"
+        android:ems="10"
+        android:hint="Date"
+        android:inputType="textPersonName" />
+
+
+    <Spinner
+        android:id="@+id/departuresId"
+
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/destinationsId"
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/timesId"
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/buschoosesId"
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/personsId"
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/bustypesId"
+        android:layout_width="320dp"
+        android:layout_height="28dp"
+        android:layout_margin="10dp" />
+
+
+
+    <Button
+        android:id="@+id/confirmbuttonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:background="#009688"
+        android:text="CONFIRM"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
